@@ -33,6 +33,12 @@ A US bike-sharing provider BoomBikes has recently suffered considerable dips in 
  ## What is the dataset that is being used
   day.csv
 
+
+## License
+Use of this dataset in publications must be cited to the following publication:
+
+[1] Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, doi:10.1007/s13748-013-0040-3.
+
 ## Conclusions
 - Conclusion 1 from the analysis
 - Conclusion 2 from the analysis
