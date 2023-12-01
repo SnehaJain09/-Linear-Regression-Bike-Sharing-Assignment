@@ -6,10 +6,15 @@ This assignment is a programming assignment wherein one have to build a multiple
   
 * [Technologies Used]
   Python - version 3.9.7
+  
  Packages used within Python with versions:
+ 
     NumPy - version 1.25.2
+    
     Pandas - version 1.3.4
+    
     Seaborn - version 0.11.2
+    
     MatplotLib - version 3.4.3
   
 * [Conclusions]
