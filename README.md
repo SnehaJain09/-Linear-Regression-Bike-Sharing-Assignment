@@ -11,7 +11,7 @@ A US bike-sharing provider BoomBikes has recently suffered considerable dips in 
   
  Packages used within Python with versions:
  
-    NumPy - version 1.25.2
+    NumPy - version 1.23.5
     
     Pandas - version 1.3.4
     
@@ -40,10 +40,13 @@ Use of this dataset in publications must be cited to the following publication:
 [1] Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, doi:10.1007/s13748-013-0040-3.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Key points from the above model:
+
+Winter season has increase in demand.
+It has been observed that the demand for bike rentals had gone up from 2018 to 2019. So we can say that it will go up year on year.
+There is decline in demand in the months of July,Nov & Dec.
+There is no much demand during the holidays
+With an increase in temperature the demand also increases.
 
 ## Contact
 Created by SnehaJain09
